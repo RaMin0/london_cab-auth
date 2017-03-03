@@ -1,4 +1,4 @@
-# LondonCab
+# LondonCab::Auth
 
 [![Gem Version](https://badge.fury.io/rb/london_cab-auth.svg)](http://badge.fury.io/rb/london_cab-auth)
 [![Build Status](https://travis-ci.org/RaMin0/london_cab-auth.svg?branch=master)](https://travis-ci.org/RaMin0/london_cab-auth)
