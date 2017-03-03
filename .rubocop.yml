@@ -1,0 +1,21 @@
+Lint/HandleExceptions:
+  Enabled: false
+
+Metrics/AbcSize:
+  Max: 25
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 25
+
+Style/Documentation:
+  Enabled: false
+
+Style/FileName:
+  Exclude:
+    - 'lib/london_cab-auth.rb'
+
+Style/ModuleFunction:
+  Enabled: false
